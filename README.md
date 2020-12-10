@@ -10,6 +10,7 @@ docker run -i -v /path/to/test/config.json:/auction/config.json challenge < /pat
 
 * Using NPM 
 ```
+npm install  
 npm start 
 ```
 
